@@ -14,6 +14,6 @@ For whatever reason, PowerBI does not like conda. There are three libraries (pan
 
 ## How do I install this?
 
-Download the yml file and make not of which directory it's in.\
+Download the yml file and make note of which directory it's in.\
 Open your Anaconda prompt and cd into the directory.\
 Run `conda env create -f environment.yml`
